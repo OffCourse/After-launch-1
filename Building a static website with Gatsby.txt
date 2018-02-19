@@ -1,0 +1,15 @@
+goal: Building a static website with Gatsby
+description: Gatsby is a website framework for React, which allows developers to build React based websites within minutes. Gatsby loads only the critical HTML, CSS, data, and JavaScript so your site loads as fast as possible. Once loaded, Gatsby prefetches resources for other pages so clicking around the site feels incredibly fast.
+checkpoints:
+  - task: Install Gatsby
+    resource-url: 'https://www.youtube.com/watch?v=_Jvs3gyNZWw'
+  - task: Manage files and folders
+    resource-url: 'https://www.youtube.com/watch?v=fwAtHV8c2p4'
+  - task: Install plugins
+    resource-url: 'https://www.gatsbyjs.org/docs/plugins/#official-plugins'
+  - task: Format a Markdown file
+    resource-url: 'https://egghead.io/lessons/gatsby-format-a-markdown-file-for-gatsby-js-665d6d93'
+  - task: Query Posts with GraphQL 
+    resource-url: 'https://www.gatsbyjs.org/docs/querying-with-graphql/'
+  - task: Deploy to Netlify
+    resource-url: 'https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/'
